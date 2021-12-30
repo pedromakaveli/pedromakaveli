@@ -1,6 +1,11 @@
 ## Olá! Bem vindo
- 
-<div align="center">
+
+
+<p align="left"> 
+  🌎 Olá, meu nome é Pedro. Sou <strong>Desenvolvedor de Front-End</strong>.
+</p>
+
+<div align="left">
   <a href="https://github.com/pedromakaveli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromakaveli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromakaveli&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -16,8 +21,8 @@
   ##
   
 <div> 
-  <a href="https://instagram.com/pedro.makaveli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedrolacerda804@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/pedro.makaveli"/>
+  <a href = "mailto:pedrolacerda804@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=00FFFF" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
