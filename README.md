@@ -2,8 +2,8 @@
 
 
 <p align="left"> 
-  🌎 Hello! I'm Pedro and I'm a front-end developer.
-  currently programming my neurons to load new features (PHP and Laravel) 🚀
+  🌎 Hello! I'm Pedro and I'm a front-end developer. <br />
+  Currently programming my neurons to load new features (PHP and Laravel) 🚀
 </p>
   
 <div style="display: inline_block"><br>
