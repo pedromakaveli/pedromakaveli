@@ -1,4 +1,4 @@
-## Hello! welcome to my profile
+## Hello! Welcome to my profile
 
 
 <p align="left"> 
