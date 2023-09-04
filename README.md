@@ -1,7 +1,5 @@
 ## Hello! Welcome to my profile
 
-
-🌎 I'm Pedro and I'm a front-end developer. <br />
 Currently programming my neurons to load new features (Laravel , Vue JS) 💪 🚀
   
 <div style="display: inline_block"><br>
