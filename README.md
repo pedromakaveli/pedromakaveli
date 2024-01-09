@@ -1,6 +1,4 @@
 ## Hello! Welcome to my profile
-
-Currently programming my neurons to load new features (Laravel , Vue JS) 💪 🚀
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
