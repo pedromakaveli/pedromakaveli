@@ -1,4 +1,8 @@
-## Hello! Welcome to my profile
+## Eai! Bem vindo ao meu perfil! 💙 
+
+#### 👽 From Varginha City
+#### 🎓 💻  Análise e Desenvolvimento de Sistemas
+#### 📧 Email para contato: pedrolacerda804@gmai.com
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
