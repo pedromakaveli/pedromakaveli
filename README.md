@@ -1,8 +1,5 @@
 ## Eai! Bem vindo ao meu perfil! 💙 
 
-Meu nome é Pedro Lacerda, tenho 22 anos e estudo Análise e Desenvolvimento de Sistemas 🎓 ,
-desde 2015 sou apaixonado por tecnólogia.
-
 #### 👽 From Varginha City
 #### 🎓 💻  Análise e Desenvolvimento de Sistemas
 #### 📧 Email para contato: pedrolacerda804@gmai.com
